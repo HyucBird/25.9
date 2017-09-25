@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 양정1동 양지로 54</string>
+		<key>title</key>
+		<string>동의과학대</string>
+		<key>subTitle</key>
+		<string>동과대</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 범전동 시민공원로 73</string>
+		<key>title</key>
+		<string>시민공원</string>
+		<key>subTitle</key>
+		<string>시민꺼</string>
+	</dict>
+	<dict>
+		<key>addr</key>
+		<string>부산광역시 부산진구 동성로112번길 121-1</string>
+		<key>title</key>
+		<string>송상현광장</string>
+		<key>subTitle</key>
+		<string>송상현꺼</string>
+	</dict>
+</array>
+</plist>
